@@ -1,10 +1,10 @@
 import React from 'react'
-import FetchData from './Components/FetchData'
+import FetchYogaData from './Components/fetchYogaData'
 
 function App() {
   return (
  <>
- <FetchData/>
+ <FetchYogaData/>
  </>
   )
 }
